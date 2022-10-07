@@ -10,7 +10,7 @@ nav .navbar-nav li {
     padding: .5rem 0;
 }
 
-@media screen and (max-width:991px) {
+/* @media screen and (max-width:991px) {
     nav .navbar-collapse {
         position: absolute;
         width: 100%;
@@ -19,6 +19,10 @@ nav .navbar-nav li {
         padding: 0.5rem 3rem;
         background: whitesmoke;
     }
+} */
+
+.homeImg {
+    width: 100%;
 }
 
 .gradient-brand-color {
